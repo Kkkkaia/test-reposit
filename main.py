@@ -52,7 +52,7 @@ for i in numbers:
             continue
         print(i)
 
-print("TASK 5")
+print("TASK 5 --")
 f_num = 0  # first num (первая цифра)
 s_num = 1  # second num (вторая, последующая цифра)
 a = int(input())
